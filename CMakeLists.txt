@@ -19,6 +19,10 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         Consts.h
+        field.h
+        field.cpp
+        utils.h
+        types.h
         mainwindow.ui
 )
 

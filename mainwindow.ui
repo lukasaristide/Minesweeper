@@ -124,7 +124,11 @@
        <height>501</height>
       </rect>
      </property>
-     <layout class="QGridLayout" name="boardLayout" rowminimumheight="0"/>
+     <layout class="QGridLayout" name="boardLayout" rowminimumheight="0">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+     </layout>
     </widget>
    </widget>
   </widget>
