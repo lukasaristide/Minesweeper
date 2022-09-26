@@ -3,7 +3,7 @@
 #include <random>
 
 #include "ui_mainwindow.h"
-#include "Consts.h"
+#include "consts.h"
 #include "types.h"
 #include "field.h"
 #include "utils.h"

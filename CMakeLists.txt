@@ -18,7 +18,7 @@ set(PROJECT_SOURCES
         main.cpp
         mainwindow.cpp
         mainwindow.h
-        Consts.h
+        consts.h
         field.h
         field.cpp
         utils.h
